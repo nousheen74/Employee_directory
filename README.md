@@ -142,10 +142,24 @@ If time permits, potential improvements could include:
 - User authentication and role-based access
 - Data visualization and analytics
 
-## License
+## Screenshots 
 
-This project is created for educational purposes as part of the AJACKUS Company Assignment.
+<img width="1366" height="768" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/91af0084-2ee6-446a-ab30-863191f05ff0" />
+<img width="1366" height="768" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/ee0fa489-ca97-4c1e-955e-5e28520bd242" />
+<img width="1366" height="768" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/d2122d1e-554a-4a90-b00c-e19e34a8d98a" />
+<img width="1366" height="768" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/e71239c6-df2c-420b-9498-736d8164121b" />
+<img width="1366" height="768" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/ff24921c-6001-4bcb-b6bf-eb632e2cd299" />
+<img width="1366" height="768" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/804d1c2e-a591-4dd5-9271-43e3cf0098ae" />
+<img width="1366" height="768" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/5e0d9eda-8aca-4282-8902-f5b6fac0e88a" />
 
----
+## Reflections 
 
-**Built with ❤️ using vanilla web technologies**
+This project was a great opportunity to build a complete web application using vanilla JavaScript. I learned a lot about managing complex state without frameworks, implementing responsive design, and creating a user-friendly interface.
+
+The most challenging part was handling the search, filter, and sort functionality while keeping the code clean and maintainable. I also gained valuable experience with form validation and error handling.
+
+If I had more time, I would add backend integration with a real database, implement bulk operations for multiple employees, and add export functionality. I'd also like to add more advanced search features and data visualization.
+
+Overall, this project helped me understand modern web development practices and reinforced the importance of writing clean, modular code.
+
+
